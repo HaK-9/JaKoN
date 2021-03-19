@@ -1,1 +1,4 @@
 # JaKoN
+
+-[] JaKoN Framework Hack 
+ 
